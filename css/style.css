@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    background-color: #99d8d0;
+}
+.btm-cloud {
+    position: absolute;
+}
+.top-cloud {
+    position: relative;
+    left: 220px;
+    top: 40px;
+}
+h1{
+    font-family: 'Yellowtail', cursive;
+    font-size: 5.62rem;
+}
+h2 {
+    font-size: 1.8rem;
+    font-weight: normal;
+}
+
+.top {
+    
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.skillImages {
+    height: 12.5rem;
+    width: 12.5rem;
+}
